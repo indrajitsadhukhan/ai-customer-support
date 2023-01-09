@@ -1,0 +1,7 @@
+1. I have read the Rasa documentation and the Youtube playlist where they have tutorial on building Rasa assistant
+
+2. Start with small set of intents and then use interactive learning (Using training data) to increase number of examples for each intent and further increase number of intents as well
+
+3. But we should have predefined set of intents. and some corresponding examples.
+4. Then we can increase number of examples for every intent to make our prediction more accurate
+
